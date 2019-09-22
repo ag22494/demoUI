@@ -2,13 +2,13 @@
 Demo-UI-Automation Framework
 
 This framework is for UI Automation using selenium webDriver
-Build Tool: Maven
-Test Tool : TestNG
-Automation Tool: Selenium WebDriver (v3)
-Reporting: Default TestNG Reports
-VCS: Git
-WebDriver: Using WebDriver Manager
-PageObjects: Using PageFactory Model
+- Build Tool: Maven
+- Test Tool : TestNG
+- Automation Tool: Selenium WebDriver (v3)
+- Reporting: Default TestNG Reports
+- VCS: Git
+- WebDriver: Using WebDriver Manager
+- PageObjects: Using PageFactory Model
 
 Framework has different components
 - Base Package
